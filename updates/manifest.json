@@ -1,0 +1,17 @@
+{
+    "schema":  1,
+    "product":  "JKQCoopLauncher",
+    "version":  "1.0.0",
+    "files":  [
+                  {
+                      "path":  "JKQ Coop Launcher.exe",
+                      "size":  111104,
+                      "sha256":  "9679524b16364796f74ae73e3325e0fe99366a0fae60c131e13c61461bf2f207"
+                  },
+                  {
+                      "path":  "BepInEx/plugins/EasyTierCoop.dll",
+                      "size":  29184,
+                      "sha256":  "2608d632d0ed49ef5813f3ee75a9bb264f1cd676df31e5bdcb52a219207e7145"
+                  }
+              ]
+}
